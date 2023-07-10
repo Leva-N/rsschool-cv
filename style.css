@@ -110,13 +110,3 @@ grid-template-columns: auto auto auto;
 justify-content: space-between;
 margin-top: 50px;
 }
-@media(max-width: 1024px){
-  .footer{
-    column-gap: 50px;
-    }
-}
-@media(max-width: 768px){
-  .footer{
-    grid-template-columns: auto;
-    }
-}
